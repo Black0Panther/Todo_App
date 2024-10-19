@@ -1,0 +1,10 @@
+.appName {
+    color: rgb(216, 216, 216);
+    background-color: rgb(167, 128, 49);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px ;
+    margin-bottom: 30px;
+    padding: 10px 0px;
+    width: 100%;
+  }
